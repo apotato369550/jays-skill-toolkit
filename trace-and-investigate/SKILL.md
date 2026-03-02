@@ -1,6 +1,6 @@
 ---
-name: debug-investigator
-description: Diagnose issues, trace execution paths, identify bugs, detect memory leaks, and locate orphaned files. Read-only investigation — no code changes. Invoke when the user asks to debug, trace, or investigate system behavior.
+name: trace-and-investigate
+description: Trace execution paths and isolate root causes. Read-only investigation — no code changes. Invoke when the user asks to debug, trace, or investigate system behavior.
 ---
 
 Investigate and isolate the root cause of an issue using the debug-investigator agent.

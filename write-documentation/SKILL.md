@@ -1,6 +1,6 @@
 ---
-name: docs-writer
-description: Update project documentation based on available context. Invoke when the user asks to sync, update, or write docs. Adapts to ARCHITECTURE.md, git diffs, or explicit instructions as source of truth.
+name: write-documentation
+description: Write and sync project documentation based on available context. Invoke when the user asks to write, update, or sync docs. Adapts to ARCHITECTURE.md, git diffs, or explicit instructions as source of truth.
 ---
 
 Update project documentation using the docs-sync-manager agent.

@@ -1,6 +1,6 @@
 ---
-name: session-saver
-description: Archive and summarize the current conversation session into a structured markdown report. Invoke when the user asks to save, archive, or capture a session. Supports brief (default) and verbose modes.
+name: save-session
+description: Save and archive the current conversation session as a structured markdown report. Invoke when the user asks to save, archive, or capture a session. Supports brief (default) and verbose modes.
 ---
 
 Archive the current conversation into a structured session report using the session-saver agent.
